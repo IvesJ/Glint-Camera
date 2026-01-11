@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
-    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/ace/glint/ExampleInstrumentedTest.kt;D:/Code/Demo/Glint/app/src/main/java/com/ace/glint/ui/CameraScreen.kt;D:/Code/Demo/Glint/app/src/main/java/com/ace/glint/GlintActivity.kt;D:/Code/Demo/Glint/app/src/test/java/com/ace/glint/ExampleUnitTest.kt;D:/Code/Demo/Glint/app/build.gradle.kts;D:/Code/Demo/Glint/build/reports/problems/problems-report.html;D:/Code/Demo/Glint/build.gradle.kts;D:/Code/Demo/Glint/settings.gradle.kts" />
-  </component>
-</project>
